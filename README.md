@@ -33,7 +33,6 @@ Quando não temos tanta noção de espaço dentro da nossa tela, nossos Widgets 
 
 #### Árvore de Widgets:
 Para que fique mais claro a relação de Widgets pais e Widgets filhos precisamos entender claramente o conceito da Árvore de Widgets. Usamos algumas ferramentas do Android Studio para facilitar nossa compreensão da árvore. Com o Flutter Inspector e o Layout Explorer podemos entender como os Widgets estão dispostos na tela, inclusive visualizar seus parâmetros e seus limites!
-Design:
 
-
+### Design:
 Onde a arte entra nisso tudo? O Design é importante para que nossos aplicativos tenham uma estrutura bonita e com um formato que faça sentido para celulares. Por isso, vimos os conceitos de Material (Design criado pela google) e Cupertino (Design criado pela apple).
