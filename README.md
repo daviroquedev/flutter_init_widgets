@@ -1,6 +1,8 @@
 # flutter_init_widgets
 
-A new Flutter project.
+Estudo sobre widgets, stack, containers, row..
+![image](https://github.com/daviroquedev/flutter_init_widgets/assets/101668192/f92e3044-5dda-4c1c-b890-12219c75d750)
+
 
 ## Getting Started
 
